@@ -8,6 +8,7 @@ gem 'rails', '3.1.0'
 gem 'sqlite3'
 gem 'execjs'
 gem 'therubyracer'
+gem 'mynyml-redgreen'
 
 group :development do
   gem 'rspec-rails', '2.6.1'
